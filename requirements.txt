@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+joblib
+lightgbm
+matplotlib
+jinja2 
+python-multipart

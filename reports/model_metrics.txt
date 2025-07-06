@@ -1,0 +1,3 @@
+MAE: 55.26
+RMSE: 107.78
+Best Params: {'num_leaves': 15, 'n_estimators': 2000, 'min_child_samples': 40, 'max_depth': 7, 'learning_rate': 0.005, 'lambda_l2': 0.5, 'lambda_l1': 0.5, 'feature_fraction': 0.9, 'boosting_type': 'gbdt', 'bagging_freq': 5, 'bagging_fraction': 0.9}
