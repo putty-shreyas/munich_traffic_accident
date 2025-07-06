@@ -10,14 +10,14 @@ An AI-powered web application that predicts the number of road traffic accidents
 - 🧠 **ML Model:** Optimized `LGBMRegressor` trained with `RandomizedSearchCV`  
 - 📈 **Evaluation Metrics:** MAE and RMSE calculated for model performance  
 - 🌐 **Web App:** Built using `FastAPI`, enhanced with HTML + Tailwind UI  
-- ☁️ **Deployment:** Live on [Render](https://render.com/)
+- ☁️ **Deployment:** Live on Render: https://munich-traffic-accident-prediction.onrender.com
 
 ---
 
 ## 🖼️ Visual Trends
 
 <div align="center">
-    <img src="assets/plot_example.png" alt="Accident Trends Plot" width="600" />
+    <img src="https://github.com/putty-shreyas/munich_traffic_accident/blob/main/reports/historical_accidents_per_category.png" alt="Accident Trends Plot" width="600" />
     <p>Accident Trends from 2000–2020</p>
 </div>
 
@@ -54,7 +54,7 @@ run run_all.py
 
 ## Live App
 
-Access the deployed version of the app at 
+Access the deployed version of the app at https://munich-traffic-accident-prediction.onrender.com
 
 ---
 
